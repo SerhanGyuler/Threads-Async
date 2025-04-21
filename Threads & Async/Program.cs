@@ -12,8 +12,8 @@ namespace Threads___Async
         static void Main(string[] args)
         {
             // Create two car objects with names
-            Car car1 = new Car("Blixten");
-            Car car2 = new Car("Sally");
+            Car car1 = new Car("Dom");
+            Car car2 = new Car("Brian");
 
             // Add cars to a list
             List<Car> cars = new List<Car> { car1, car2 };
